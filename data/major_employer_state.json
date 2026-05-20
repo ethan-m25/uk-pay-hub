@@ -1,0 +1,65 @@
+{
+  "last_checked": "2026-05-20",
+  "employers": {
+    "HSBC": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "Barclays": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "Lloyds": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "NatWest": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "Monzo": {
+      "count": 24,
+      "first_seen": "2026-05-20",
+      "checked": "2026-05-20"
+    },
+    "Revolut": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "GlaxoSmithKline": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "AstraZeneca": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "Unilever": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "Arm Holdings": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "Spotify": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "Deliveroo": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    }
+  }
+}

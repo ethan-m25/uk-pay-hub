@@ -8,7 +8,7 @@ SCRIPTS_DIR="$HOME/uk-pay-hub/scripts"
 LOG_FILE="$SCRIPTS_DIR/pipeline.log"
 LOCK_FILE="$SCRIPTS_DIR/.nightly-pipeline.lock"
 
-log() { echo "[${$(date '+%Y-%m-%d %H:%M:%S')}] $*" | tee -a "$LOG_FILE"; }
+log() { echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*" | tee -a "$LOG_FILE"; }
 
 if [[ -f "$LOCK_FILE" ]]; then
   old_pid=$(cat "$LOCK_FILE" 2>/dev/null || true)
@@ -38,9 +38,17 @@ log "workday done (exit $?)"
 log "--- search-ashby.py ---"
 python3 "$SCRIPTS_DIR/search-ashby.py" >> "$LOG_FILE" 2>&1
 log "ashby done (exit $?)"
+log "--- search-browser.py ---"
+python3 "$SCRIPTS_DIR/search-browser.py" >> "$LOG_FILE" 2>&1
+log "browser done (exit $?)"
+
 log "--- search-amazon.py ---"
 python3 "$SCRIPTS_DIR/search-amazon.py" >> "$LOG_FILE" 2>&1
 log "amazon done (exit $?)"
+log "--- search-successfactors.py ---"
+python3 "$SCRIPTS_DIR/search-successfactors.py" >> "$LOG_FILE" 2>&1
+log "successfactors done (exit $?)"
+
 
 log "--- update-jobs.py ---"
 python3 "$SCRIPTS_DIR/update-jobs.py" >> "$LOG_FILE" 2>&1

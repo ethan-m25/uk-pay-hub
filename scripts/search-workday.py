@@ -32,6 +32,8 @@ from _common import (
 LOG_FILE      = os.path.expanduser("~/uk-pay-hub/scripts/workday.log")
 LOCK_FILE     = os.path.expanduser("~/uk-pay-hub/scripts/.workday.lock")
 LOOKBACK_DATE = (date.today() - timedelta(days=60)).isoformat() + "T00:00:00.000Z"
+LARGE_TENANT_THRESHOLD = 500
+REGION_SEARCH_TEXT = "United Kingdom"
 
 log = make_logger(LOG_FILE)
 
@@ -267,7 +269,7 @@ def discover_tenants():
 # with HTTP 400. curl uses a browser-like TLS fingerprint and is not affected.
 # Solution: delegate API calls to curl via subprocess.
 
-def wd_list_jobs(host, company_id, tenant, offset=0, limit=50):
+def wd_list_jobs(host, company_id, tenant, offset=0, limit=50, search_text=""):
     """Return (job_postings, total) from Workday CXS API via curl.
 
     curl's TLS fingerprint (JA3) passes Cloudflare's bot detection;
@@ -275,7 +277,7 @@ def wd_list_jobs(host, company_id, tenant, offset=0, limit=50):
     """
     url = f"https://{host}/wday/cxs/{company_id}/{tenant}/jobs"
     body = json.dumps({
-        "appliedFacets": {}, "limit": limit, "offset": offset, "searchText": ""
+        "appliedFacets": {}, "limit": limit, "offset": offset, "searchText": search_text
     })
     cmd = [
         "curl", "-s", "--max-time", "20",
@@ -300,8 +302,8 @@ def wd_list_jobs(host, company_id, tenant, offset=0, limit=50):
         return [], 0
 
 
-def is_bc(locations_text, external_path=""):
-    """Return True only if the job is plausibly located in British Columbia.
+def is_uk(locations_text, external_path=""):
+    """Return True only if the job is plausibly located in UK.
 
     Two-stage check:
     1. Reject if the URL path contains an explicit non-BC location (US state, ON, AB, QC).
@@ -311,7 +313,7 @@ def is_bc(locations_text, external_path=""):
     ep = (external_path or "").lower()
     lt = (locations_text or "").lower()
 
-    if any(t in ep for t in _NON_BC_PATH_TERMS):
+    if any(t in ep for t in _BC_PATH_TERMS):
         return False
 
     return (
@@ -652,7 +654,7 @@ def main():
         log(f"\n── {company_name} ({host}) ──")
 
         # Paginate through all jobs, collect BC ones
-        bc_jobs = []
+        uk_jobs = []
         offset = 0
         limit = 10     # Workday blocks limit >= 25 (anti-scraping); 10 is safe
         max_pages = 10 # covers 100 most recent jobs per company
@@ -661,8 +663,9 @@ def main():
         # Track the first valid total and use it for pagination decisions; if a page returns
         # total=0 we still continue until we hit max_pages or get an empty postings list.
         known_total = 0
+        use_search_text = ""
         while offset // limit < max_pages:
-            postings, total = wd_list_jobs(host, company_id, tenant, offset, limit)
+            postings, total = wd_list_jobs(host, company_id, tenant, offset, limit, use_search_text)
             if not postings:
                 if offset == 0:
                     api_failures += 1
@@ -670,19 +673,28 @@ def main():
                 break
             if total > 0:
                 known_total = total  # Only trust non-zero totals (wd5 bug: returns 0 on page 2+)
+            if offset == 0 and known_total > LARGE_TENANT_THRESHOLD and not use_search_text:
+                use_search_text = REGION_SEARCH_TEXT
+                max_pages = 9999
+                log(f"  Large tenant ({known_total} jobs) → retrying with searchText='{use_search_text}'")
+                postings, total = wd_list_jobs(host, company_id, tenant, 0, limit, use_search_text)
+                if not postings:
+                    break
+                if total > 0:
+                    known_total = total
             log(f"  API offset={offset}: {len(postings)} postings (total={total})")
             for p in postings:
-                if is_bc(p.get("locationsText", ""), p.get("externalPath", "")):
-                    bc_jobs.append(p)
+                if is_uk(p.get("locationsText", ""), p.get("externalPath", "")):
+                    uk_jobs.append(p)
             offset += limit
             if known_total > 0 and offset >= known_total:
                 break
             time.sleep(2)
 
-        log(f"  BC jobs: {len(bc_jobs)}")
+        log(f"  UK jobs: {len(uk_jobs)}")
 
         # Fetch HTML for each BC job and extract salary
-        for i, posting in enumerate(bc_jobs, 1):
+        for i, posting in enumerate(uk_jobs, 1):
             title    = posting.get("title", "").strip()
             ext_path = posting.get("externalPath", "")
             posted_on = posting.get("postedOn", TODAY)
@@ -692,7 +704,7 @@ def main():
             if key in seen_keys:
                 continue
 
-            log(f"  [{i}/{len(bc_jobs)}] {title[:55]}")
+            log(f"  [{i}/{len(uk_jobs)}] {title[:55]}")
             text = fetch_job_html(host, tenant, ext_path, company_id=company_id)
             if not text:
                 log("    → fetch failed")
@@ -775,7 +787,7 @@ def main():
             continue
 
         location = extract_location_from_html(html, external_path)
-        if not is_bc(location, external_path):
+        if not is_uk(location, external_path):
             continue
 
         val_min, val_max = salary
