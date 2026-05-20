@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/Users/clawii/uk-pay-hub/scripts/search-greenhouse.py", line 23, in <module>
+    from scrapling import Fetcher
+ModuleNotFoundError: No module named 'scrapling'
+/Users/clawii/uk-pay-hub/scripts/nightly-pipeline.sh: line 11: syntax error near unexpected token `{{'
+/Users/clawii/uk-pay-hub/scripts/nightly-pipeline.sh: line 11: `log() {{ echo "[${{$(date '+%Y-%m-%d %H:%M:%S')}}] $*" | tee -a "$LOG_FILE"; }}'
