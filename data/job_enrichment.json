@@ -1,0 +1,639 @@
+{
+  "meta": {
+    "built_at": "2026-05-21T10:43:39.979142+00:00",
+    "total_jobs": 126,
+    "enriched": 28
+  },
+  "jobs": {
+    "developer-evangelist-xsolla-85194243": {
+      "summary": "Hands-on technical advocate who empowers game developers to successfully integrate Xsolla’s products and features into their games through workshops, resources, and lighthouse cases.",
+      "key_skills": [
+        "developer evangelist",
+        "integration",
+        "technical advocacy",
+        "game development",
+        "unity",
+        "unreal",
+        "payment systems",
+        "backend apis"
+      ],
+      "core_skills": [
+        "technical guidance",
+        "integration resources",
+        "lighthouse cases",
+        "developer relations"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "game---ua-analytics--xsolla-85194243": {
+      "summary": "Analyst who designs and executes revenue-tied A/B tests, conducts funnel audits, and provides UA recommendations to drive product adoption and revenue growth for game studios.",
+      "key_skills": [
+        "game analytics",
+        "ab testing",
+        "revenue tracking",
+        "funnel audits",
+        "product adoption",
+        "ua recommendations",
+        "benchmarks",
+        "market data"
+      ],
+      "core_skills": [
+        "sql",
+        "bi",
+        "ab testing",
+        "data pipelines"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "software-development-gocardless-85194245": {
+      "summary": "Software Development Engineer II who designs, builds, and owns new features to drive customer acquisition, engagement, and retention through robust, high-quality products.",
+      "key_skills": [
+        "ruby",
+        "golang",
+        "python",
+        "javascript",
+        "typescript",
+        "react",
+        "postgres",
+        "bigquery"
+      ],
+      "core_skills": [
+        "problem_solving",
+        "collaboration",
+        "iterative_development",
+        "system_design"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "customer-support-spe-aircall-85194245": {
+      "summary": "Customer Support Specialist works closely with customers to identify, investigate, escalate and advise on questions and concerns, directly impacting their ability to run teams efficiently.",
+      "key_skills": [
+        "customer support",
+        "ai tools",
+        "communication",
+        "problem solving",
+        "multilingual",
+        "technical aptitude",
+        "empathy",
+        "curiosity"
+      ],
+      "core_skills": [
+        "customer support",
+        "technical aptitude",
+        "communication",
+        "problem solving"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "brand-designer-vanta-85194245": {
+      "summary": "Brand Designer creates high-quality brand assets across digital, web, campaigns, and print while translating creative briefs into visual solutions that align with brand standards.",
+      "key_skills": [
+        "brand design",
+        "typography",
+        "composition",
+        "visual systems",
+        "layout",
+        "figma",
+        "adobe creative suite",
+        "ai tools"
+      ],
+      "core_skills": [
+        "brand identity",
+        "visual storytelling",
+        "cross-functional collaboration",
+        "typographic excellence"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "customer-success-man-vanta-85194245": {
+      "summary": "Serves as a trusted advisor for 5-10 strategic enterprise customers with 10,000+ employees, driving complex implementations and high-impact business outcomes through executive stakeholder engagement and multi-quarter projects.",
+      "key_skills": [
+        "customer success",
+        "strategic accounts",
+        "enterprise security",
+        "compliance",
+        "governance",
+        "risk management",
+        "implementation",
+        "project management"
+      ],
+      "core_skills": [
+        "strategic account management",
+        "executive stakeholder engagement",
+        "multi-quarter project execution",
+        "value realization"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "design-recruiter-vanta-85194245": {
+      "summary": "Owns full-cycle recruiting for Vanta’s Design organization, partnering with design leadership to shape hiring strategy, define assessments, and close top-tier design talent in competitive markets.",
+      "key_skills": [
+        "design",
+        "recruiting",
+        "talent",
+        "strategy",
+        "portfolio",
+        "assessments",
+        "candidate",
+        "experience"
+      ],
+      "core_skills": [
+        "design_recruiting",
+        "talent_pipeline",
+        "hiring_strategy",
+        "candidate_experience"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "engineering-manager--vanta-85194245": {
+      "summary": "Manages a scaling engineering team to build and scale AI agent products while ensuring customer control and human-in-the-loop decision-making.",
+      "key_skills": [
+        "ai",
+        "prompt engineering",
+        "rag",
+        "agent frameworks",
+        "llm",
+        "quality hill-climbing",
+        "prompt engineering",
+        "agentic evidence collection"
+      ],
+      "core_skills": [
+        "ai",
+        "prompt engineering",
+        "rag",
+        "agent frameworks"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "field-marketing-mana-vanta-85194245": {
+      "summary": "Owns regional field marketing strategy and execution to drive pipeline, accelerate deals, and partner with sales leadership through in-person and virtual programs.",
+      "key_skills": [
+        "field marketing",
+        "regional strategy",
+        "pipeline generation",
+        "sales partnership",
+        "event execution",
+        "program optimization",
+        "data-driven",
+        "cross-functional collaboration"
+      ],
+      "core_skills": [
+        "regional marketing strategy",
+        "pipeline ownership",
+        "sales partnership",
+        "event execution"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "lifecycle-marketing--vanta-85194245": {
+      "summary": "Owns lifecycle strategy and execution across email, in-product, and other channels to drive onboarding, activation, retention, and expansion while mapping end-to-end customer journeys and designing data-driven programs.",
+      "key_skills": [
+        "lifecycle marketing",
+        "b2b marketing",
+        "product marketing",
+        "marketing automation",
+        "crm",
+        "data analysis",
+        "customer journey mapping",
+        "experimentation"
+      ],
+      "core_skills": [
+        "b2b lifecycle marketing",
+        "customer journey mapping",
+        "marketing automation",
+        "experimentation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-analyst--gtm--vanta-85194245": {
+      "summary": "Senior Analyst, GTM Analytics at Vanta partners with Sales, Overlay teams, and RevOps to analyze GTM performance, build scalable reporting, and improve revenue outcomes through data-driven insights.",
+      "key_skills": [
+        "sql",
+        "data_analysis",
+        "bi_tools",
+        "forecasting",
+        "propensity_modeling",
+        "sales_engineering",
+        "revenue_operations",
+        "gtm_analytics"
+      ],
+      "core_skills": [
+        "sql",
+        "bi_tools",
+        "forecasting",
+        "propensity_modeling"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-fullstack-sof-vanta-85194245": {
+      "summary": "Senior Software Engineer leads complex projects, sets technical direction for scaling infrastructure, and mentors engineering teams to deliver high-value products for customer security and compliance.",
+      "key_skills": [
+        "typescript",
+        "react",
+        "nodejs"
+      ],
+      "core_skills": [
+        "technical leadership",
+        "complex project delivery"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-growth-market-vanta-85194245": {
+      "summary": "Owns end-to-end demand generation strategy and execution for Vanta's integrated campaign programs, connecting story, audience, and growth bets to build pipeline for the Agentic Trust Platform.",
+      "key_skills": [
+        "growth marketing",
+        "campaign strategy",
+        "demand generation",
+        "marketing automation",
+        "sales",
+        "sdr",
+        "product marketing",
+        "abm"
+      ],
+      "core_skills": [
+        "campaign strategy",
+        "demand generation",
+        "marketing automation",
+        "sales"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-manager--engi-vanta-85194245": {
+      "summary": "Senior Manager of Engineering Recruiting leads a high-performing team of technical recruiters to build and refine recruiting strategies for complex engineering roles, partner with engineering leadership to shape talent strategy, and deliver exceptional hiring outcomes that support Vanta’s product roadmap and growth.",
+      "key_skills": [
+        "recruiting",
+        "engineering",
+        "technical",
+        "talent",
+        "hiring",
+        "full-cycle",
+        "strategic",
+        "leadership"
+      ],
+      "core_skills": [
+        "strategic",
+        "leadership",
+        "data-driven",
+        "operational"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-manager--reve-vanta-85194245": {
+      "summary": "Senior Manager leads 7 GTM recruiters to drive hiring across Pre and Post sales teams in North America while partnering with leadership to prioritize talent acquisition and meet quarterly goals.",
+      "key_skills": [
+        "recruiting",
+        "talent",
+        "hiring",
+        "gathering",
+        "data",
+        "metrics",
+        "stakeholder"
+      ],
+      "core_skills": [
+        "leadership",
+        "strategic_planning",
+        "problem_solving",
+        "metrics_driven"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-manager--secu-vanta-85194245": {
+      "summary": "Senior Manager of Security leads security engineering team to implement robust security protocols, assess risks, and ensure secure product development through AI-driven security practices.",
+      "key_skills": [
+        "security engineering",
+        "application security",
+        "ai security",
+        "sast",
+        "dast",
+        "owasp top 10",
+        "nist 800-53",
+        "gdpr",
+        "iso 27001"
+      ],
+      "core_skills": [
+        "leadership",
+        "risk assessment",
+        "compliance",
+        "security operations"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-manager--stra-vanta-85194245": {
+      "summary": "Owns marketing strategy and growth for AWS and strategic VAR partners, building executive relationships and driving revenue through joint business plans and campaigns.",
+      "key_skills": [
+        "aws",
+        "partner_marketing",
+        "strategic_partnerships",
+        "revenue_growth",
+        "joint_go_to_market",
+        "pipeline_acceleration",
+        "account_based_marketing",
+        "executive_relationships"
+      ],
+      "core_skills": [
+        "strategic_planning",
+        "cross_functional_stakeholder_management",
+        "revenue_optimization",
+        "executive_influence"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-marketing-ana-vanta-85194245": {
+      "summary": "Senior Marketing Analyst builds scalable reporting capabilities for marketing teams, transforms complex marketing data into actionable insights, and enables data-driven decision-making to improve marketing ROI.",
+      "key_skills": [
+        "sql",
+        "salesforce",
+        "marketing_automation",
+        "tableau",
+        "dbt",
+        "python",
+        "r"
+      ],
+      "core_skills": [
+        "analytical_mindset",
+        "action_oriented",
+        "communication_skills"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-product-desig-vanta-85194245": {
+      "summary": "Senior Product Designer at Vanta drives user-centric projects in a rapidly scaling company trusted by hundreds of organizations to protect their most critical data, working closely with Engineering and Product Managers to create intuitive interfaces for complex workflows.",
+      "key_skills": [
+        "product design",
+        "ui",
+        "ux",
+        "system thinking",
+        "accessibility",
+        "figma",
+        "ai"
+      ],
+      "core_skills": [
+        "system thinking",
+        "accessibility",
+        "figma",
+        "ui/ux"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-product-enabl-vanta-85194245": {
+      "summary": "Designs and delivers product enablement programs to translate product strategy into field readiness, drive adoption, and impact revenue through training, documentation, and cross-functional collaboration.",
+      "key_skills": [
+        "product enablement",
+        "curriculum design",
+        "training content",
+        "lms platforms",
+        "content management systems",
+        "knowledge bases",
+        "gong",
+        "ai tools"
+      ],
+      "core_skills": [
+        "product acumen",
+        "data-driven mindset",
+        "cross-functional collaboration",
+        "customer-first mindset"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-product-manag-vanta-85194245": {
+      "summary": "Owns the product vision, strategy, and roadmap for Vanta's Personnel product, focusing on AI-enabled compliance and people data management to automate employee lifecycle workflows and ensure regulatory adherence.",
+      "key_skills": [
+        "product_management",
+        "ai",
+        "compliance",
+        "hris",
+        "data_infrastructure",
+        "customer_discovery",
+        "agentic_ai",
+        "solutions_engineering"
+      ],
+      "core_skills": [
+        "product_strategy",
+        "technical_fluency",
+        "ai_product_experience",
+        "customer_centric_discovery"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-software-engi-vanta-85194245": {
+      "summary": "Designs and builds scalable infrastructure to support rapid growth while ensuring security and reliability for Vanta's core systems.",
+      "key_skills": [
+        "infrastructure",
+        "security",
+        "aws",
+        "typescript",
+        "react",
+        "nodejs",
+        "mongodb",
+        "githubactions"
+      ],
+      "core_skills": [
+        "infrastructure design",
+        "cloud infrastructure",
+        "security infrastructure",
+        "technical leadership"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "solutions-engineer---vanta-85194245": {
+      "summary": "Solutions Engineer leads technical discussions with customers to ensure seamless adoption of Vanta's security solutions, develops deep product understanding, and drives technical evaluations for pre-sales engagements.",
+      "key_skills": [
+        "solutions engineering",
+        "cloud platforms",
+        "scripting languages",
+        "project management",
+        "cybersecurity"
+      ],
+      "core_skills": [
+        "technical discussion",
+        "customer relationship",
+        "product capabilities"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-data-engineer-vanta-85194245": {
+      "summary": "Designs and implements complex data models, builds reporting tools, and develops scalable data infrastructure to support data-driven decision-making across the company.",
+      "key_skills": [
+        "data engineering",
+        "sql",
+        "data modeling",
+        "data infrastructure",
+        "data warehousing",
+        "aws",
+        "terraform",
+        "cdc"
+      ],
+      "core_skills": [
+        "data engineering",
+        "sql",
+        "data modeling",
+        "data infrastructure"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-product-design-vanta-85194245": {
+      "summary": "Staff Product Designer at Vanta leads strategic projects to define AI-centric workflow builder experiences, partners cross-functionally to align on vision, and mentors designers while enhancing design systems for enterprise compliance solutions.",
+      "key_skills": [
+        "product_design",
+        "ai_centric",
+        "workflow_builder",
+        "compliance",
+        "b2b_saaS",
+        "customer_discovery",
+        "design_system",
+        "mentorship"
+      ],
+      "core_skills": [
+        "strategic_project_leads",
+        "customer_insights",
+        "design_strategy",
+        "systemic_thinking"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "vp-of-brand-vanta-85194245": {
+      "summary": "VP of Brand at Vanta defines how the company shows up strategically, emotionally, and culturally across all touchpoints, leading integrated creative, content, and communications efforts to build a brand that drives perception and pipeline.",
+      "key_skills": [
+        "brand strategy",
+        "creative leadership",
+        "content strategy",
+        "social media strategy",
+        "communications strategy",
+        "narrative storytelling",
+        "market positioning",
+        "strategic planning"
+      ],
+      "core_skills": [
+        "brand strategy",
+        "creative leadership",
+        "content strategy",
+        "narrative storytelling"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "manager--grc-subject-vanta-59821503": {
+      "summary": "Manages GRC Product Subject Matter Experts team to develop and maintain security frameworks, compliance content, and testing processes for diverse customer needs.",
+      "key_skills": [
+        "gcr",
+        "product",
+        "frameworks",
+        "compliance",
+        "testing",
+        "quality",
+        "content",
+        "governance"
+      ],
+      "core_skills": [
+        "leadership",
+        "program_management",
+        "governance",
+        "compliance"
+      ],
+      "seniority_signal": "manager",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "vp--professional-ser-vanta-59821503": {
+      "summary": "Builds and leads Vanta's Professional Services function from scratch to deliver scalable service offerings and drive customer outcomes through strategic partnerships and AI-enhanced delivery models.",
+      "key_skills": [
+        "saaS",
+        "professional services",
+        "consulting",
+        "compliance",
+        "security",
+        "ai",
+        "revenue",
+        "leadership"
+      ],
+      "core_skills": [
+        "revenue ownership",
+        "process design",
+        "partner enablement",
+        "customer success"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    }
+  }
+}

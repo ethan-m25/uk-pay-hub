@@ -1,0 +1,319 @@
+{
+  "generated": "2026-05-21",
+  "categories": {
+    "Engineering": {
+      "cat_median": 225500,
+      "n_jobs": 29,
+      "skills": [
+        {
+          "skill": "security",
+          "median": 234500,
+          "n": 4,
+          "dev": 4.0
+        },
+        {
+          "skill": "githubactions",
+          "median": 234500,
+          "n": 4,
+          "dev": 4.0
+        },
+        {
+          "skill": "cloud infrastructure",
+          "median": 234500,
+          "n": 4,
+          "dev": 4.0
+        },
+        {
+          "skill": "infrastructure",
+          "median": 234500,
+          "n": 4,
+          "dev": 4.0
+        },
+        {
+          "skill": "aws",
+          "median": 232000,
+          "n": 5,
+          "dev": 2.9
+        },
+        {
+          "skill": "product capabilities",
+          "median": 225500,
+          "n": 4,
+          "dev": 0.0
+        },
+        {
+          "skill": "technical discussion",
+          "median": 225500,
+          "n": 4,
+          "dev": 0.0
+        },
+        {
+          "skill": "scripting languages",
+          "median": 225500,
+          "n": 4,
+          "dev": 0.0
+        },
+        {
+          "skill": "project management",
+          "median": 225500,
+          "n": 4,
+          "dev": 0.0
+        },
+        {
+          "skill": "customer relationship",
+          "median": 225500,
+          "n": 4,
+          "dev": 0.0
+        },
+        {
+          "skill": "solutions engineering",
+          "median": 225500,
+          "n": 4,
+          "dev": 0.0
+        },
+        {
+          "skill": "typescript",
+          "median": 212000,
+          "n": 7,
+          "dev": -6.0
+        },
+        {
+          "skill": "complex project delivery",
+          "median": 212000,
+          "n": 2,
+          "dev": -6.0
+        },
+        {
+          "skill": "nodejs",
+          "median": 212000,
+          "n": 2,
+          "dev": -6.0
+        },
+        {
+          "skill": "technical leadership",
+          "median": 212000,
+          "n": 2,
+          "dev": -6.0
+        },
+        {
+          "skill": "react",
+          "median": 212000,
+          "n": 2,
+          "dev": -6.0
+        },
+        {
+          "skill": "payment systems",
+          "median": 162500,
+          "n": 2,
+          "dev": -27.9
+        },
+        {
+          "skill": "integration",
+          "median": 162500,
+          "n": 2,
+          "dev": -27.9
+        },
+        {
+          "skill": "technical advocacy",
+          "median": 162500,
+          "n": 2,
+          "dev": -27.9
+        },
+        {
+          "skill": "integration resources",
+          "median": 162500,
+          "n": 2,
+          "dev": -27.9
+        },
+        {
+          "skill": "unreal",
+          "median": 162500,
+          "n": 2,
+          "dev": -27.9
+        },
+        {
+          "skill": "unity",
+          "median": 162500,
+          "n": 2,
+          "dev": -27.9
+        }
+      ]
+    },
+    "Other": {
+      "cat_median": 109700,
+      "n_jobs": 56,
+      "skills": []
+    },
+    "Design": {
+      "cat_median": 158000,
+      "n_jobs": 3,
+      "skills": []
+    },
+    "Management": {
+      "cat_median": 215500,
+      "n_jobs": 11,
+      "skills": [
+        {
+          "skill": "customer success",
+          "median": 180500,
+          "n": 4,
+          "dev": -16.2
+        },
+        {
+          "skill": "value realization",
+          "median": 150000,
+          "n": 3,
+          "dev": -30.4
+        },
+        {
+          "skill": "governance",
+          "median": 150000,
+          "n": 3,
+          "dev": -30.4
+        },
+        {
+          "skill": "multi-quarter project execution",
+          "median": 150000,
+          "n": 3,
+          "dev": -30.4
+        },
+        {
+          "skill": "implementation",
+          "median": 150000,
+          "n": 3,
+          "dev": -30.4
+        },
+        {
+          "skill": "enterprise security",
+          "median": 150000,
+          "n": 3,
+          "dev": -30.4
+        }
+      ]
+    },
+    "Marketing": {
+      "cat_median": 143750,
+      "n_jobs": 4,
+      "skills": [
+        {
+          "skill": "marketing automation",
+          "median": 143750,
+          "n": 2,
+          "dev": 0.0
+        },
+        {
+          "skill": "product marketing",
+          "median": 143750,
+          "n": 2,
+          "dev": 0.0
+        }
+      ]
+    },
+    "Data & Analytics": {
+      "cat_median": 140500,
+      "n_jobs": 4,
+      "skills": []
+    },
+    "People & HR": {
+      "cat_median": 211750,
+      "n_jobs": 2,
+      "skills": []
+    },
+    "Product": {
+      "cat_median": 225500,
+      "n_jobs": 13,
+      "skills": [
+        {
+          "skill": "strategic_project_leads",
+          "median": 257000,
+          "n": 2,
+          "dev": 14.0
+        },
+        {
+          "skill": "design_strategy",
+          "median": 257000,
+          "n": 2,
+          "dev": 14.0
+        },
+        {
+          "skill": "design_system",
+          "median": 257000,
+          "n": 2,
+          "dev": 14.0
+        },
+        {
+          "skill": "compliance",
+          "median": 257000,
+          "n": 2,
+          "dev": 14.0
+        },
+        {
+          "skill": "mentorship",
+          "median": 257000,
+          "n": 2,
+          "dev": 14.0
+        },
+        {
+          "skill": "customer_centric_discovery",
+          "median": 225500,
+          "n": 3,
+          "dev": 0.0
+        },
+        {
+          "skill": "solutions_engineering",
+          "median": 225500,
+          "n": 3,
+          "dev": 0.0
+        },
+        {
+          "skill": "customer_discovery",
+          "median": 225500,
+          "n": 5,
+          "dev": 0.0
+        },
+        {
+          "skill": "technical_fluency",
+          "median": 225500,
+          "n": 3,
+          "dev": 0.0
+        },
+        {
+          "skill": "ai_product_experience",
+          "median": 225500,
+          "n": 3,
+          "dev": 0.0
+        },
+        {
+          "skill": "data_infrastructure",
+          "median": 225500,
+          "n": 3,
+          "dev": 0.0
+        },
+        {
+          "skill": "ui/ux",
+          "median": 206750,
+          "n": 2,
+          "dev": -8.3
+        },
+        {
+          "skill": "accessibility",
+          "median": 206750,
+          "n": 2,
+          "dev": -8.3
+        },
+        {
+          "skill": "product design",
+          "median": 206750,
+          "n": 2,
+          "dev": -8.3
+        },
+        {
+          "skill": "system thinking",
+          "median": 206750,
+          "n": 2,
+          "dev": -8.3
+        }
+      ]
+    }
+  }
+}
