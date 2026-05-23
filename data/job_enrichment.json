@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-22T10:42:18.539215+00:00",
-    "total_jobs": 129,
-    "enriched": 55
+    "built_at": "2026-05-23T10:37:33.462794+00:00",
+    "total_jobs": 136,
+    "enriched": 69
   },
   "jobs": {
     "developer-evangelist-xsolla-85194243": {
@@ -257,6 +257,27 @@
       "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "director--deal-desk-vanta-85194245": {
+      "summary": "Owns the strategy, structure, and execution of the global Deal Desk function to drive sales velocity while protecting commercial integrity across all deals.",
+      "key_skills": [
+        "security",
+        "sales",
+        "strategy",
+        "deal_desk",
+        "compliance",
+        "ai"
+      ],
+      "core_skills": [
+        "leadership",
+        "stakeholder_management",
+        "process_optimization",
+        "strategic_thinking"
+      ],
+      "seniority_signal": "director",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     },
     "director--global-sys-vanta-85194245": {
       "summary": "Builds and leads strategic partnerships with global systems integrators to drive revenue growth through integrated solutions and joint go-to-market initiatives.",
@@ -534,6 +555,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "salesforce-quality-e-vanta-85194245": {
+      "summary": "Builds and owns the Business Systems Quality Assurance program for Vanta's internal GTM and Finance systems, ensuring revenue-critical workflows are protected through end-to-end quality gates, automation frameworks, and observability infrastructure.",
+      "key_skills": [
+        "salesforce",
+        "quality assurance",
+        "automation",
+        "testing",
+        "apex",
+        "ui regression",
+        "integration testing",
+        "observability"
+      ],
+      "core_skills": [
+        "salesforce",
+        "quality assurance",
+        "automation",
+        "testing"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-accountant-vanta-85194245": {
       "summary": "Senior Accountant focuses on payroll accounting, reconciliations, and flux analysis while partnering with HR and Payroll to ensure accurate financial reporting.",
       "key_skills": [
@@ -557,6 +601,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-account-execu-vanta-85194245": {
+      "summary": "Account Executive focuses on identifying high-potential business verticals, turning inbound demand into closed new business, managing sales pipeline, defining customer-specific benefits, and collecting insights for product development.",
+      "key_skills": [
+        "sales",
+        "customer",
+        "outbound",
+        "pipeline",
+        "compliance",
+        "security",
+        "smb",
+        "midmarket"
+      ],
+      "core_skills": [
+        "sales",
+        "customer",
+        "outbound",
+        "pipeline"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-analyst--gtm--vanta-85194245": {
       "summary": "Senior Analyst, GTM Analytics at Vanta partners with Sales, Overlay teams, and RevOps to analyze GTM performance, build scalable reporting, and improve revenue outcomes through data-driven insights.",
       "key_skills": [
@@ -574,6 +641,29 @@
         "bi_tools",
         "forecasting",
         "propensity_modeling"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-copywriter-vanta-85194245": {
+      "summary": "Senior Copywriter at Vanta writes across channels including campaigns, web, paid ads, email, and video to maintain and scale the brand voice while collaborating with cross-functional teams to ensure clear, compelling, and strategic messaging.",
+      "key_skills": [
+        "copywriting",
+        "storytelling",
+        "strategy",
+        "content creation",
+        "brand voice",
+        "writing",
+        "AI tools",
+        "creative direction"
+      ],
+      "core_skills": [
+        "copywriting",
+        "storytelling",
+        "strategy",
+        "content creation"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
@@ -680,6 +770,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "senior-manager--enab-vanta-85194245": {
+      "summary": "Owns strategy and execution of go-to-market programs to drive revenue growth and scale effectively across Vanta's GTM organization.",
+      "key_skills": [
+        "revenue enablement",
+        "gtm programs",
+        "sales training",
+        "product enablement",
+        "partner enablement",
+        "instructional design",
+        "onboarding",
+        "continuous learning"
+      ],
+      "core_skills": [
+        "cross-functional collaboration",
+        "data-driven mindset",
+        "program strategy",
+        "team leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     },
     "senior-manager--engi-vanta-85194245": {
       "summary": "Senior Manager of Engineering Recruiting leads a high-performing team of technical recruiters to build and refine recruiting strategies for complex engineering roles, partner with engineering leadership to shape talent strategy, and deliver exceptional hiring outcomes that support Vanta’s product roadmap and growth.",
@@ -1042,6 +1155,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "staff-engineer--prod-vanta-85194245": {
+      "summary": "Staff Engineer leads large-scale, multi-team initiatives from end to end, defining technical direction and architecture while collaborating with leadership across Engineering, Product, and Design to deliver complex features.",
+      "key_skills": [
+        "python",
+        "javascript",
+        "java",
+        "go",
+        "rust",
+        "c",
+        "c++",
+        "typescript"
+      ],
+      "core_skills": [
+        "system_design",
+        "architecture",
+        "leadership",
+        "collaboration"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "staff-product-design-vanta-85194245": {
       "summary": "Staff Product Designer at Vanta leads strategic projects to define AI-centric workflow builder experiences, partners cross-functionally to align on vision, and mentors designers while enhancing design systems for enterprise compliance solutions.",
       "key_skills": [
@@ -1082,6 +1218,29 @@
         "cross_functional_collaboration",
         "storytelling",
         "customer_empathy"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-software-engin-vanta-85194245": {
+      "summary": "Drives technical strategy across infrastructure and security systems, abstractions, and paved roads for engineering teams to build and ship products with velocity and confidence.",
+      "key_skills": [
+        "aws",
+        "containerization",
+        "distributed_systems",
+        "cloud_infrastructure",
+        "security_hardening",
+        "mongodb",
+        "event_driven_architecture",
+        "typescript"
+      ],
+      "core_skills": [
+        "technical_leadership",
+        "system_design",
+        "platform_engineering",
+        "cloud_infrastructure"
       ],
       "seniority_signal": "staff",
       "role_type": "ic",
@@ -1245,6 +1404,167 @@
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "onsite"
+    },
+    "financial-reporting--monzo-32549901": {
+      "summary": "This role involves overseeing EU financial reporting, ensuring IFRS compliance, and managing financial governance for Monzo's EU expansion while mentoring junior team members.",
+      "key_skills": [
+        "financial reporting",
+        "auditing",
+        "accounting",
+        "compliance",
+        "ifrs",
+        "internal controls",
+        "financial governance",
+        "tech-driven finance"
+      ],
+      "core_skills": [
+        "financial reporting",
+        "auditing",
+        "accounting",
+        "compliance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "lead-insurance-prici-monzo-32549901": {
+      "summary": "Lead Insurance Pricing Analyst optimizes Monzo's insurance pricing performance by analysing market competitiveness, conversion, and loss data to drive actionable pricing strategies and improvements.",
+      "key_skills": [
+        "data analysis",
+        "pricing strategy",
+        "insurance",
+        "risk modelling",
+        "sql",
+        "python",
+        "jupyter",
+        "looker"
+      ],
+      "core_skills": [
+        "pricing analysis",
+        "data experiments",
+        "loss ratio analysis",
+        "conversion optimization"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-product-manag-monzo-32549901": {
+      "summary": "Senior Product Manager in Payments leads the growth of Monzo's payments business by identifying opportunities for adoption and engagement, prioritizing target audiences, negotiating partnerships, and using data insights to drive strategic decisions.",
+      "key_skills": [
+        "product management",
+        "payments",
+        "customer experience",
+        "data analysis",
+        "commercial strategy",
+        "agile",
+        "cross-functional collaboration",
+        "stakeholder management"
+      ],
+      "core_skills": [
+        "product management",
+        "payments",
+        "customer experience",
+        "data analysis"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "account-manager--gro-vanta-32549901": {
+      "summary": "Account Manager at Vanta focuses on expanding and retaining customer relationships by acting as a trusted advisor to align security and compliance solutions with customer business objectives through strategic partnerships and upsells.",
+      "key_skills": [
+        "security",
+        "compliance",
+        "customer_relationships",
+        "sales",
+        "advisory",
+        "consulting",
+        "product_management",
+        "strategic_partnership"
+      ],
+      "core_skills": [
+        "customer_relationships",
+        "sales",
+        "advisory",
+        "consulting"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "channel-manager-vanta-32549901": {
+      "summary": "Manages channel partnerships to drive revenue growth and partner deployment for the downmarket segment through co-selling and relationship building with partners.",
+      "key_skills": [
+        "channel management",
+        "partner deployment",
+        "sales pipeline",
+        "co-selling",
+        "partner enablement",
+        "relationship building",
+        "pipeline rigor",
+        "partner acquisition"
+      ],
+      "core_skills": [
+        "channel partner experience",
+        "co-selling",
+        "cross-functional collaboration",
+        "proactive self-starter"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "head-of-solutions-en-vanta-32549901": {
+      "summary": "Owns and scales Vanta's regional Solutions Engineering organization across North America, driving technical win rates, accelerating deals, and shaping the company's go-to-market strategy.",
+      "key_skills": [
+        "solutions engineering",
+        "technical consulting",
+        "sales engineering",
+        "pre-sales",
+        "customer success",
+        "governance",
+        "compliance",
+        "security"
+      ],
+      "core_skills": [
+        "leadership",
+        "strategic planning",
+        "cross-functional collaboration",
+        "operational excellence"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "revenue-operations-a-vanta-32549901": {
+      "summary": "Owns day-to-day operational excellence of Vanta's NAMER SDR organization and makes recommendations to improve Vanta’s GTM motion",
+      "key_skills": [
+        "revenue operations",
+        "sales operations",
+        "sales development",
+        "sdr",
+        "data analysis",
+        "process optimization",
+        "sales metrics",
+        "gtm"
+      ],
+      "core_skills": [
+        "data analysis",
+        "process optimization",
+        "sales metrics",
+        "sdr"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     }
   }
 }
