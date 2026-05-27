@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-26T10:32:14.552914+00:00",
-    "total_jobs": 136,
-    "enriched": 69
+    "built_at": "2026-05-27T10:31:36.889406+00:00",
+    "total_jobs": 140,
+    "enriched": 73
   },
   "jobs": {
     "developer-evangelist-xsolla-85194243": {
@@ -1565,6 +1565,98 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "chief-of-staff--desi-monzo-77843679": {
+      "summary": "The Chief of Staff partners with the Chief Design Officer to drive design impact across the business, product, and brand through efficient processes, complex program management, and strategic communication.",
+      "key_skills": [
+        "design",
+        "processes",
+        "operationalisation",
+        "product",
+        "user",
+        "research",
+        "brand",
+        "strategy"
+      ],
+      "core_skills": [
+        "operationalisation",
+        "processes",
+        "design",
+        "strategy"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "financial-controls-m-monzo-77843679": {
+      "summary": "Manages a small team to ensure accurate and timely month-end financial reporting through rigorous control processes and system optimization.",
+      "key_skills": [
+        "accounting",
+        "financial_control",
+        "month_end_reporting",
+        "sap_s4_hana",
+        "process_automation",
+        "financial_reporting",
+        "auditing",
+        "accounting_systems"
+      ],
+      "core_skills": [
+        "process_automation",
+        "financial_reporting",
+        "auditing",
+        "accounting"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-director-of-m-monzo-77843679": {
+      "summary": "Senior Director of Marketing leads end-to-end marketing strategy for Monzo's Business Banking to drive sustainable growth for micro and small businesses across the UK and future European markets.",
+      "key_skills": [
+        "fintech",
+        "marketing",
+        "business banking",
+        "smb",
+        "growth",
+        "customer acquisition",
+        "lifecycle marketing",
+        "retention"
+      ],
+      "core_skills": [
+        "b2b marketing leadership",
+        "self-serve growth",
+        "digital acquisition",
+        "smb marketing"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-program-manag-moonpay-77843679": {
+      "summary": "Works cross-functionally with senior leaders to identify, structure, and execute high-impact strategic and operational projects using AI to build scalable systems and processes.",
+      "key_skills": [
+        "product_operations",
+        "strategic_planning",
+        "cross_functional",
+        "ai_tools",
+        "process_optimization",
+        "operational_analysis",
+        "business_case_building",
+        "strategic_execution"
+      ],
+      "core_skills": [
+        "strategic_thinking",
+        "communication",
+        "problem_solving",
+        "ambiguity_management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
     }
   }
 }
