@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-27T10:31:36.889406+00:00",
-    "total_jobs": 140,
-    "enriched": 73
+    "built_at": "2026-05-28T11:28:35.347962+00:00",
+    "total_jobs": 228,
+    "enriched": 100
   },
   "jobs": {
     "developer-evangelist-xsolla-85194243": {
@@ -1657,6 +1657,597 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "unknown"
+    },
+    "account-executive-lattice-67440829": {
+      "summary": "Lattice is hiring for a role that requires quick registration to secure seats for Lattiverse 2026",
+      "key_skills": [
+        "lattice",
+        "lattice"
+      ],
+      "core_skills": [
+        "lattice"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-customer-succ-affirm-67440829": {
+      "summary": "Senior Customer Success Manager owns and leads Affirm’s largest international partner relationships to drive growth and strategic partnerships while ensuring customer satisfaction and business results.",
+      "key_skills": [
+        "customer success",
+        "strategic partnerships",
+        "relationship management",
+        "program management",
+        "analytical skills",
+        "cross-functional collaboration",
+        "executive presence",
+        "stakeholder management"
+      ],
+      "core_skills": [
+        "strategic partnership management",
+        "cross-functional collaboration",
+        "stakeholder influence",
+        "analytical decision-making"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "fmm--startups--emea--vercel-67440829": {
+      "summary": "Builds and executes field marketing and ABM programs for startups in EMEA, driving revenue through founder engagement and event-based tactics.",
+      "key_skills": [
+        "field marketing",
+        "abm",
+        "event management",
+        "founder engagement",
+        "startup marketing",
+        "revenue generation",
+        "pipeline development",
+        "data-driven marketing"
+      ],
+      "core_skills": [
+        "abm strategy",
+        "cross-functional collaboration",
+        "founder ecosystem building",
+        "revenue impact"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "people-enablement-pa-grafanalabs-67440829": {
+      "summary": "Partners with GTM leadership to design and deliver people enablement strategies, including learning, performance, and development initiatives while leveraging AI tools for personalized coaching and manager readiness diagnostics.",
+      "key_skills": [
+        "remote",
+        "business_partnering",
+        "people_enablement",
+        "gtm"
+      ],
+      "core_skills": [
+        "strategic_enablement",
+        "cross_functional_partnership",
+        "talent_management",
+        "ai_tool_integration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "sales-development-re-grafanalabs-67440829": {
+      "summary": "Sales Development Representative focuses on engaging users and prospects to provide guidance, identifying new business opportunities through proactive outreach, and collaborating with sales teams to drive revenue.",
+      "key_skills": [
+        "sales",
+        "development",
+        "representative",
+        "open-source",
+        "grafana",
+        "tech",
+        "communication",
+        "english"
+      ],
+      "core_skills": [
+        "sales",
+        "research",
+        "communication",
+        "proactive outreach"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-backend-engin-grafanalabs-67440829": {
+      "summary": "Senior Backend Engineer responsible for developing and maintaining Grafana's next-generation storage layer, including Unified Storage, Search, and Folders features, ensuring reliability and performance for Grafana Cloud.",
+      "key_skills": [
+        "go",
+        "distributed systems",
+        "cloud",
+        "sre",
+        "operational excellence",
+        "open-source",
+        "kubernetes",
+        "golang"
+      ],
+      "core_skills": [
+        "go",
+        "distributed systems",
+        "cloud",
+        "sre"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-software-engi-justworks-67440829": {
+      "summary": "Senior Software Engineer builds and maintains AI agent platforms to automate operational workflows, focusing on scalable backend systems and product-driven solutions.",
+      "key_skills": [
+        "ai",
+        "software",
+        "engineering",
+        "backend",
+        "python",
+        "cloud",
+        "data",
+        "api"
+      ],
+      "core_skills": [
+        "ai-native",
+        "system-design",
+        "product-thinking",
+        "ownership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "account-director--sm-bazaarvoice-67440829": {
+      "summary": "Owns full lifecycle of client relationships including renewals, upsells, cross-sells, and contract management while driving revenue targets in SaaS, MarTech, or eCommerce.",
+      "key_skills": [
+        "sales",
+        "renewals",
+        "upsells",
+        "cross-sells",
+        "client_relationships",
+        "contract_management",
+        "revenue_targets",
+        "quota_carrying"
+      ],
+      "core_skills": [
+        "sales",
+        "renewals",
+        "upsells",
+        "cross-sells"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "account-executive--s-bazaarvoice-67440829": {
+      "summary": "Account Executive at Bazaarvoice runs full sales cycles including prospecting, negotiation, and closing deals using cutting-edge tools and market data.",
+      "key_skills": [
+        "sales",
+        "prospecting",
+        "negotiation",
+        "closing",
+        "email",
+        "phone",
+        "linkedin"
+      ],
+      "core_skills": [
+        "sales_methodology",
+        "sales_force"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "business-recruiter---ashby-67440829": {
+      "summary": "GTM Recruiters own end-to-end development and execution of recruitment strategies to find exceptional talent for G&A, Professional Services, Customer Success, and Sales roles in B2B SaaS companies.",
+      "key_skills": [
+        "recruiting",
+        "g2m",
+        "talent",
+        "sourcing",
+        "data-driven",
+        "hiring",
+        "gtm"
+      ],
+      "core_skills": [
+        "data-driven",
+        "hiring",
+        "sourcing"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "director-of-support--ashby-67440829": {
+      "summary": "Directs strategic evolution of Support Engineering function to ensure technical insights influence product and platform while scaling support capabilities across engineering and product teams.",
+      "key_skills": [
+        "systems",
+        "engineering",
+        "support",
+        "strategic",
+        "partnership",
+        "problem-solving",
+        "scalability",
+        "technical"
+      ],
+      "core_skills": [
+        "systems-level",
+        "strategic",
+        "partnership",
+        "technical"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "engineering-manager--ashby-67440829": {
+      "summary": "Engineering Manager who builds and scales engineering teams while fostering a culture of autonomy and technical excellence through hands-on involvement and coaching.",
+      "key_skills": [
+        "engineering",
+        "product",
+        "technical",
+        "leadership",
+        "team",
+        "scalability",
+        "quality",
+        "culture"
+      ],
+      "core_skills": [
+        "engineering",
+        "product",
+        "technical"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "enterprise-solutions-ashby-67440829": {
+      "summary": "Enterprise Solutions Architect designs and closes successful professional services opportunities by partnering with sales teams to scope implementation approaches for complex enterprise deals, ensuring seamless handoffs and improved customer outcomes.",
+      "key_skills": [
+        "enterprise solutions architecture",
+        "solutions consulting",
+        "professional services",
+        "implementation strategy",
+        "statement of work creation",
+        "cross-functional collaboration",
+        "customer success",
+        "enterprise sales"
+      ],
+      "core_skills": [
+        "enterprise sas",
+        "complex deal management",
+        "technical solutions design",
+        "stakeholder alignment"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "high-touch-implement-ashby-67440829": {
+      "summary": "Manages end-to-end implementation of Ashby's solution for mid-market and smaller enterprise customers, ensuring positive customer experiences and expedited time to value through active engagement and tailored solutions.",
+      "key_skills": [
+        "implementation",
+        "project_management",
+        "customer_success",
+        "technical_proficiency",
+        "change_management",
+        "best_practices",
+        "critical_thinking",
+        "cross_functional_collaboration"
+      ],
+      "core_skills": [
+        "customer_centricity",
+        "problem_solving",
+        "data_driven",
+        "adaptable"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "implementation-consu-ashby-67440829": {
+      "summary": "Owns execution of technical configuration for new Ashby customers, partners with specialists to confirm requirements, leads tailored configuration, defines testing plans, and documents final configurations for post-launch optimization.",
+      "key_skills": [
+        "implementation",
+        "configuration",
+        "technical",
+        "project_management",
+        "customer_centricity",
+        "change_management",
+        "cross_functional",
+        "problem_solving"
+      ],
+      "core_skills": [
+        "complex_saaS_implementation",
+        "customer_centricity",
+        "technical_proficiency",
+        "critical_thinking"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "mid-market-customer--ashby-67440829": {
+      "summary": "Partners with customers to drive adoption, deliver strategic guidance, conduct product trainings, and identify opportunities for expanded use cases and long-term value realization.",
+      "key_skills": [
+        "customer success",
+        "b2b saas",
+        "product expertise",
+        "strategic guidance",
+        "adoption",
+        "retention",
+        "growth",
+        "cross-functional collaboration"
+      ],
+      "core_skills": [
+        "customer success",
+        "b2b saas",
+        "product expertise",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-product-engin-ashby-67440829": {
+      "summary": "Product engineer who designs and builds end-to-end features while owning reusable building blocks across the stack",
+      "key_skills": [
+        "product_engineering",
+        "feature_development",
+        "end_to_end_delivery",
+        "reusable_building_blocks",
+        "competitive_analysis",
+        "wireframing",
+        "sql_optimization",
+        "automated_scheduling"
+      ],
+      "core_skills": [
+        "product_specification",
+        "end_to_end_ownership",
+        "cross_functional_collaboration",
+        "user_centric_design"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "staff-product-design-ashby-67440829": {
+      "summary": "Designs and improves software products while managing design systems and collaborating with product teams to enhance user experience and product performance.",
+      "key_skills": [
+        "product_design",
+        "design_system",
+        "product_management",
+        "ux_design",
+        "design_principles",
+        "user_experience",
+        "software_design",
+        "design_consulting"
+      ],
+      "core_skills": [
+        "product_design",
+        "design_system",
+        "product_management",
+        "ux_design"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "staff-product-engine-ashby-67440829": {
+      "summary": "Product engineer who designs and builds end-to-end features while owning reusable building blocks across the stack",
+      "key_skills": [
+        "product_engineering",
+        "feature_development",
+        "end_to_end_delivery",
+        "reusable_building_blocks",
+        "competitive_analysis",
+        "wireframing",
+        "sql_optimization",
+        "automated_scheduling"
+      ],
+      "core_skills": [
+        "product_specification",
+        "end_to_end_ownership",
+        "cross_functional_collaboration",
+        "user_centric_design"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "strategic-implementa-ashby-67440829": {
+      "summary": "Manages and executes end-to-end implementation of Ashby's solution for new customers, ensuring positive customer experience and expedited time to value through strategic planning and execution.",
+      "key_skills": [
+        "implementation",
+        "project_management",
+        "customer_success",
+        "technical_proficiency",
+        "change_management",
+        "best_practices",
+        "critical_thinking",
+        "cross_functional_collaboration"
+      ],
+      "core_skills": [
+        "implementation",
+        "project_management",
+        "customer_success",
+        "technical_proficiency"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "value-consultant-ashby-67440829": {
+      "summary": "Owns value selling motion for enterprise segment, builds frameworks and tools to help prospects understand Ashby's business impact, and ensures post-sales value realization through customer success collaboration.",
+      "key_skills": [
+        "value consulting",
+        "solutions engineering",
+        "impact assessment",
+        "customer success",
+        "enterprise sales",
+        "business case development",
+        "value realization",
+        "executive communication"
+      ],
+      "core_skills": [
+        "value consulting",
+        "solutions engineering",
+        "impact assessment",
+        "customer success"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "customer-success-man-openai-67440829": {
+      "summary": "Manages advertiser relationships, guides onboarding and campaign launches, analyzes performance data, and provides strategic recommendations to drive growth on OpenAI's advertising platform.",
+      "key_skills": [
+        "customer success",
+        "advertising",
+        "onboarding",
+        "campaign launches",
+        "performance analysis",
+        "strategic recommendations",
+        "partner growth",
+        "advertiser relationships"
+      ],
+      "core_skills": [
+        "bilingual",
+        "data querying",
+        "cross-functional collaboration",
+        "relationship management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "director--certificat-openai-67440829": {
+      "summary": "Owns OpenAI's certification initiative as a strategic program across Product, Customer Education, GTM, and Partnerships, defining the architecture and scaling to reach millions of learners while maintaining credibility.",
+      "key_skills": [
+        "ai",
+        "certification",
+        "product",
+        "governance",
+        "learning",
+        "scaling",
+        "integration",
+        "cross-functional"
+      ],
+      "core_skills": [
+        "strategic_program_ownership",
+        "cross_functional_influence",
+        "product_integration",
+        "certification_architecture"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "manufacturing-test-e-openai-67440829": {
+      "summary": "Owns development of manufacturing test strategies, tools, and execution practices for critical AI infrastructure hardware, ensuring testability, reliability, and production readiness at scale.",
+      "key_skills": [
+        "hardware",
+        "testing",
+        "manufacturing",
+        "automation",
+        "python",
+        "shell"
+      ],
+      "core_skills": [
+        "design for test",
+        "test coverage",
+        "yield improvement",
+        "root cause analysis"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "regional-client-part-openai-67440829": {
+      "summary": "Owns the full sales cycle for advertising revenue, from prospecting to deal closure, while developing long-term commercial partnerships with advertisers to drive revenue growth and ensure responsible AI platform experiences.",
+      "key_skills": [
+        "performance marketing",
+        "digital marketing",
+        "client-facing strategy",
+        "consulting",
+        "revenue growth",
+        "advertiser roi",
+        "structured account plans",
+        "complex commercial agreements"
+      ],
+      "core_skills": [
+        "bilingual",
+        "revenue target ownership",
+        "cross-functional collaboration",
+        "data-driven business cases"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-revenue-assoc-sequence-67440829": {
+      "summary": "Builds pipeline through outbound sales activities, content marketing, and event engagement to drive revenue growth for a fast-growing AI-powered revenue platform.",
+      "key_skills": [
+        "sales",
+        "pipeline",
+        "outbound",
+        "marketing",
+        "content",
+        "social_media",
+        "email",
+        "linkedin"
+      ],
+      "core_skills": [
+        "sales_operations",
+        "communication",
+        "problem_solving",
+        "creativity"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "process-manager--glo-kpmg-67440829": {
+      "summary": "Process Manager, Global Procurement manages procurement processes across global operations.",
+      "key_skills": [
+        "procurement",
+        "process"
+      ],
+      "core_skills": [
+        "procurement"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
     }
   }
 }
