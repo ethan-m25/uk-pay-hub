@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-29T12:05:21.556226+00:00",
-    "total_jobs": 255,
-    "enriched": 164
+    "built_at": "2026-05-30T12:17:05.851008+00:00",
+    "total_jobs": 259,
+    "enriched": 183
   },
   "jobs": {
     "developer-evangelist-xsolla-85194243": {
@@ -555,6 +555,32 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "revenue-enablement-c-vanta-85194245": {
+      "summary": "Enables JavaScript to run the app",
+      "key_skills": [
+        "javascript"
+      ],
+      "core_skills": [
+        "javascript"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "salesforce-product-m-vanta-85194245": {
+      "summary": "Enables JavaScript to run the app",
+      "key_skills": [
+        "javascript"
+      ],
+      "core_skills": [
+        "javascript"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
     "salesforce-quality-e-vanta-85194245": {
       "summary": "Builds and owns the Business Systems Quality Assurance program for Vanta's internal GTM and Finance systems, ensuring revenue-critical workflows are protected through end-to-end quality gates, automation frameworks, and observability infrastructure.",
       "key_skills": [
@@ -1021,6 +1047,19 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-salesforce-ad-vanta-85194245": {
+      "summary": "Enables JavaScript to run the app",
+      "key_skills": [
+        "javascript"
+      ],
+      "core_skills": [
+        "javascript"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
     "senior-software-engi-vanta-85194245": {
       "summary": "Designs and builds scalable infrastructure to support rapid growth while ensuring security and reliability for Vanta's core systems.",
       "key_skills": [
@@ -1112,6 +1151,19 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "software-engineer--i-vanta-85194245": {
+      "summary": "Enables JavaScript to run the app",
+      "key_skills": [
+        "javascript"
+      ],
+      "core_skills": [
+        "javascript"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
     },
     "solutions-engineer---vanta-85194245": {
       "summary": "Solutions Engineer leads technical discussions with customers to ensure seamless adoption of Vanta's security solutions, develops deep product understanding, and drives technical evaluations for pre-sales engagements.",
@@ -2209,6 +2261,129 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "snr-product-manager--gbr006-refiniti-67440829": {
+      "summary": "Owns strategy, design, and delivery of integration patterns and agentic orchestration capabilities connecting LSEG's MCP tools into multi-step AI workflows across partner ecosystems and internal applications.",
+      "key_skills": [
+        "agentic workflows",
+        "integration patterns",
+        "orchestration",
+        "mcp tools",
+        "ai agents",
+        "financial intelligence",
+        "tool chaining",
+        "multi-step reasoning"
+      ],
+      "core_skills": [
+        "agentic ai",
+        "integration strategy",
+        "developer experience",
+        "ai safety"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "underwriting-assista-aviva-canada-in-67440829": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "commercial-auto-unde-aviva-canada-in-67440829": {
+      "summary": "Assesses, analyzes, and prices risk for commercial auto business, collaborates with junior underwriters, reviews reports for accurate exposure, applies loss rating, stays updated on market trends, negotiates renewal terms, and manages broker relationships.",
+      "key_skills": [
+        "commercial auto underwriting",
+        "risk assessment",
+        "pricing",
+        "loss control",
+        "broker relationships",
+        "underwriting guidelines",
+        "market trends",
+        "policy wordings"
+      ],
+      "core_skills": [
+        "risk assessment",
+        "pricing",
+        "loss control"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-product-manag-vanta-67440829": {
+      "summary": "Owns the Test Experience roadmap, focuses on helping customers surface compliance gaps fast, resolve issues through automated and agentic means, and generate audit-ready evidence.",
+      "key_skills": [
+        "product management",
+        "compliance",
+        "security",
+        "ai",
+        "agentic",
+        "automation",
+        "customer experience",
+        "workflow tools"
+      ],
+      "core_skills": [
+        "product management",
+        "customer experience",
+        "ai",
+        "automation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-software-engi-vanta-67440829": {
+      "summary": "Builds and ships internal tools to accelerate Vanta's go-to-market efforts by collaborating with Sales, Customer Success, and Revenue Operations to improve pipeline generation and win rates through AI-powered workflows and automation.",
+      "key_skills": [
+        "python",
+        "typescript",
+        "sql",
+        "ai",
+        "web",
+        "full-stack",
+        "ai-driven",
+        "automation"
+      ],
+      "core_skills": [
+        "full-stack",
+        "ai",
+        "python",
+        "typescript"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "technical-support-sp-vanta-67440829": {
+      "summary": "Provides technical support to customers through email, screen sharing, and chat, resolving inquiries within SLAs while mastering Vanta's product and explaining complex solutions in simplified terms.",
+      "key_skills": [
+        "technical support",
+        "troubleshooting",
+        "cloud infrastructure",
+        "api integration",
+        "networking",
+        "datadog",
+        "database",
+        "empathy"
+      ],
+      "core_skills": [
+        "troubleshooting",
+        "cloud infrastructure",
+        "api integration",
+        "networking"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "business-recruiter---ashby-67440829": {
       "summary": "GTM Recruiters own end-to-end development and execution of recruitment strategies to find exceptional talent for G&A, Professional Services, Customer Success, and Sales roles in B2B SaaS companies.",
       "key_skills": [
@@ -2827,6 +3002,76 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "abuse-investigator---openai-67440829": {
+      "summary": "Abuse Investigator detects, investigates, and disrupts misuse of OpenAI products for biological and chemical threats, working with cross-functional teams to develop mitigation strategies and enforce policies.",
+      "key_skills": [
+        "biosecurity",
+        "dual-use",
+        "threat_investigation",
+        "sql",
+        "python",
+        "risk_mitigation",
+        "adversarial_thinking",
+        "open_source_research"
+      ],
+      "core_skills": [
+        "threat_investigation",
+        "risk_mitigation",
+        "adversarial_thinking",
+        "open_source_research"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "ai-deployment-engine-openai-67440829": {
+      "summary": "AI Deployment Engineer partners with engineering teams to design, validate, and scale AI coding workflows using Codex, enabling customer adoption of OpenAI's tools throughout their software development lifecycle.",
+      "key_skills": [
+        "ai deployment",
+        "ai coding tools",
+        "technical architecture",
+        "product strategy",
+        "customer engagement",
+        "solutions engineering",
+        "workflow automation",
+        "openai codex"
+      ],
+      "core_skills": [
+        "technical consulting",
+        "solutions architecture",
+        "customer strategy",
+        "technical content creation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "ai-success-engineer--openai-67440829": {
+      "summary": "AI Success Engineer drives post-sales technical adoption and value realization for enterprise customers through deployment, configuration, and strategic use case identification.",
+      "key_skills": [
+        "ai",
+        "technical",
+        "customer",
+        "adoption",
+        "deployment",
+        "program",
+        "management",
+        "consulting"
+      ],
+      "core_skills": [
+        "technical",
+        "program",
+        "management",
+        "customer",
+        "adoption"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "customer-success-man-openai-67440829": {
       "summary": "Manages advertiser relationships, guides onboarding and campaign launches, analyzes performance data, and provides strategic recommendations to drive growth on OpenAI's advertising platform.",
       "key_skills": [
@@ -2849,6 +3094,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "datacenter-netdeploy-openai-67440829": {
+      "summary": "Owns end-to-end physical network deployments for new builds, expansions, and refreshes across data centers, ensuring infrastructure is installed, validated, and handed over in a production-ready state.",
+      "key_skills": [
+        "datacenter",
+        "network",
+        "deployment",
+        "physical",
+        "cabling",
+        "fiber",
+        "structured",
+        "routing"
+      ],
+      "core_skills": [
+        "vendor_management",
+        "scheduling",
+        "risk_management",
+        "deployment_validation"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
     },
     "datacenter-networkin-openai-67440829": {
       "summary": "Datacenter Networking Technician enables AI compute deployments through network infrastructure maintenance and configuration.",
@@ -2953,6 +3221,29 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
+    "product-marketing-ma-openai-67440829": {
+      "summary": "Senior Product Marketing Manager shapes OpenAI's API platform narrative to win developer mindshare and scale enterprise adoption through data-driven strategies and cross-functional partnerships.",
+      "key_skills": [
+        "product_marketing",
+        "api_platform",
+        "enterprise",
+        "developer_marketing",
+        "b2b",
+        "market_strategy",
+        "competitive_analysis",
+        "data_driven"
+      ],
+      "core_skills": [
+        "strategic_planning",
+        "cross_functional_collaboration",
+        "product_strategy",
+        "market_creation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "regional-client-part-openai-67440829": {
       "summary": "Owns the full sales cycle for advertising revenue, from prospecting to deal closure, while developing long-term commercial partnerships with advertisers to drive revenue growth and ensure responsible AI platform experiences.",
       "key_skills": [
@@ -2976,6 +3267,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "security-engineer--i-openai-67440829": {
+      "summary": "Security Engineer designs and builds security controls across physical hardware, firmware, OS, Kubernetes, networks, and CI/CD to protect OpenAI's infrastructure from sophisticated threats and insider attacks.",
+      "key_skills": [
+        "cloud_security",
+        "kubernetes",
+        "networking",
+        "infrastructure_security",
+        "container_security",
+        "multi_cloud",
+        "firmware_security",
+        "os_security"
+      ],
+      "core_skills": [
+        "cloud_security",
+        "k.ubernetes",
+        "networking",
+        "infrastructure_security"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "software-engineer--f-openai-67440829": {
       "summary": "Software engineer who builds full-stack applications for people innovation at openai",
       "key_skills": [
@@ -2987,6 +3301,30 @@
         "javascript"
       ],
       "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "software-engineer--i-openai-67440829": {
+      "summary": "Designs and builds scaled foundational systems for detecting, tracking, and enforcing harm using AI technologies while collaborating with cross-functional teams to combat abusive actors.",
+      "key_skills": [
+        "design",
+        "build",
+        "scaled",
+        "foundational",
+        "systems",
+        "detection",
+        "tracking",
+        "enforcement"
+      ],
+      "core_skills": [
+        "software",
+        "engineering",
+        "backend",
+        "data",
+        "systems"
+      ],
+      "seniority_signal": "mid",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "unknown"
@@ -3628,6 +3966,43 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "product-marketing-le-monzo-40977720": {
+      "summary": "Product Marketing Lead shapes product-market fit for Monzo's core banking products by partnering with Product Management, Design, and User Research to define target segments, understand customer needs, and deliver disruptive product roadmaps that strengthen Monzo's competitive edge in the financial services market.",
+      "key_skills": [
+        "product marketing",
+        "product strategy",
+        "user research",
+        "product management",
+        "design",
+        "data analysis",
+        "financial services",
+        "customer experience"
+      ],
+      "core_skills": [
+        "product marketing",
+        "user research",
+        "product management",
+        "data analysis"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "customer-account-man-lattice-40977721": {
+      "summary": "Lattice is hiring for a role that requires quick registration to secure seats for Lattiverse 2026",
+      "key_skills": [
+        "lattice",
+        "lattice"
+      ],
+      "core_skills": [
+        "lattice"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
     }
   }
 }
