@@ -168,26 +168,24 @@ def fetch_page_text(url, log=None):
 
 
 def load_existing_keys():
-    existing = set()
-    shared = Path(SHARED_DIR)
-    if not shared.exists():
-        return existing
-    for f in sorted(shared.glob(f"uk-jobs-raw-*.txt")):
-        try:
-            for line in open(f):
-                line = line.strip()
-                if not line:
-                    continue
-                try:
-                    job = json.loads(line)
-                    k = f"{job.get('role','').lower().strip()}|{job.get('company','').lower().strip()}"
-                    existing.add(k)
-                except json.JSONDecodeError:
-                    pass
-        except Exception:
-            pass
-    return existing
+    try:
+        with open(DATA_FILE) as f:
+            db = json.load(f)
+        return {
+            f"{j['role'].lower().strip()}|{j['company'].lower().strip()}"
+            for j in db.get("jobs", [])
+        }
+    except Exception:
+        return set()
 
+
+def load_existing_urls():
+    try:
+        with open(DATA_FILE) as f:
+            db = json.load(f)
+        return {j.get("source_url", "") for j in db.get("jobs", []) if j.get("source_url")}
+    except Exception:
+        return set()
 
 def write_job(output_file, job):
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
