@@ -1,7 +1,7 @@
 {
   "meta": {
-    "built_at": "2026-05-30T12:17:05.851008+00:00",
-    "total_jobs": 259,
+    "built_at": "2026-05-31T11:42:59.427063+00:00",
+    "total_jobs": 258,
     "enriched": 183
   },
   "jobs": {
@@ -3367,50 +3367,6 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "process-manager--glo-kpmg-67440829": {
-      "summary": "Process Manager, Global Procurement manages procurement processes across global operations.",
-      "key_skills": [
-        "procurement",
-        "process"
-      ],
-      "core_skills": [
-        "procurement"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
-    "senior-accountant--a-kpmg-67440829": {
-      "summary": "Senior Accountant performs audit tasks for private enterprises in London, Canada.",
-      "key_skills": [
-        "accounting",
-        "audit"
-      ],
-      "core_skills": [
-        "audit"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
-    "system-server-admini-kpmg-67440829": {
-      "summary": "System Server Administrator manages and maintains server infrastructure across multiple locations.",
-      "key_skills": [
-        "system",
-        "server",
-        "administration"
-      ],
-      "core_skills": [
-        "system",
-        "server"
-      ],
-      "seniority_signal": "entry",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
     "head-of-credit-strat-monzo-54041057": {
       "summary": "Head of Credit Strategy Oversight leads credit risk strategy oversight team to ensure lending portfolios grow safely through independent assurance, partnership with first line credit teams, and risk management integration.",
       "key_skills": [
@@ -3474,6 +3430,27 @@
         "strategic-thinking"
       ],
       "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "account-manager---ma-zeneducate-54041057": {
+      "summary": "Owns relationships with key customers including retention, expansion, and new business while leading school leaders through recruitment processes using a consultative approach.",
+      "key_skills": [
+        "sales",
+        "outbound",
+        "pipeline",
+        "consultative",
+        "retention",
+        "expansion",
+        "school",
+        "recruitment"
+      ],
+      "core_skills": [
+        "sales",
+        "outbound"
+      ],
+      "seniority_signal": "entry",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
@@ -3967,6 +3944,27 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "integrated-marketing-monzo-40977720": {
+      "summary": "The Integrated Marketing Lead, Business Banking leads marketing efforts for Business Banking targeting complex audiences across UK and EU, driving campaigns that align with Monzo’s business objectives while managing teams to deliver results.",
+      "key_skills": [
+        "b2b marketing",
+        "cross-functional leadership",
+        "strategic thinking",
+        "data-driven optimization",
+        "campaign design",
+        "commercial acumen"
+      ],
+      "core_skills": [
+        "b2b marketing",
+        "cross-functional leadership",
+        "strategic thinking",
+        "data-driven optimization"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "product-marketing-le-monzo-40977720": {
       "summary": "Product Marketing Lead shapes product-market fit for Monzo's core banking products by partnering with Product Management, Design, and User Research to define target segments, understand customer needs, and deliver disruptive product roadmaps that strengthen Monzo's competitive edge in the financial services market.",
       "key_skills": [
@@ -4003,6 +4001,28 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "unknown"
+    },
+    "marketing-lead--uki-asana-40977721": {
+      "summary": "The Marketing Lead, UKI leads regional marketing strategy for the UK and Ireland, partnering with sales and customer teams to drive pipeline and market presence while translating global priorities into local opportunities.",
+      "key_skills": [
+        "marketing",
+        "strategy",
+        "regional",
+        "sales",
+        "execution",
+        "campaigns",
+        "events",
+        "executive"
+      ],
+      "core_skills": [
+        "strategic",
+        "commercial",
+        "prioritization"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     }
   }
 }
