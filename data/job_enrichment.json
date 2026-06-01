@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-31T11:42:59.427063+00:00",
-    "total_jobs": 258,
-    "enriched": 183
+    "built_at": "2026-06-01T11:53:04.672281+00:00",
+    "total_jobs": 264,
+    "enriched": 188
   },
   "jobs": {
     "developer-evangelist-xsolla-85194243": {
@@ -4023,6 +4023,116 @@
       "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "chief-of-staff-monzo-14440195": {
+      "summary": "The Chief of Staff partners with senior leaders to drive strategic priorities, improve organisational effectiveness, and ensure execution across Monzo's Core Banking team.",
+      "key_skills": [
+        "strategic planning",
+        "operational excellence",
+        "stakeholder management",
+        "decision making",
+        "organisational effectiveness",
+        "financial metrics",
+        "cross-functional collaboration",
+        "influence"
+      ],
+      "core_skills": [
+        "strategic partner",
+        "operational leadership",
+        "high growth tech",
+        "complex problem solving"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "managing-director--e-avalerehealth-14440195": {
+      "summary": "This VP leads evidence and strategy projects for healthcare clients, focusing on patient-centric value, evidence analytics, and healthcare strategy to drive data-driven decisions and improve patient outcomes.",
+      "key_skills": [
+        "evidence",
+        "strategy",
+        "healthcare",
+        "consulting",
+        "data-driven",
+        "patient-centric",
+        "value-based",
+        "health equity"
+      ],
+      "core_skills": [
+        "consulting",
+        "client engagement",
+        "healthcare research"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "principal--policy-avalerehealth-14440195": {
+      "summary": "Serves as a key subject matter expert on Medicare, Medicaid, and drug pricing policy issues impacting pharmaceutical/biotech, health insurance, pharmacy, and PBM industries while generating strategic and tactical recommendations for clients.",
+      "key_skills": [
+        "medicare",
+        "medicaid",
+        "drug_pricing_policy",
+        "policy_analysis",
+        "client_strategy",
+        "project_management",
+        "cross_functional_teams",
+        "stakeholder_engagement"
+      ],
+      "core_skills": [
+        "policy_analysis",
+        "client_strategy",
+        "project_management",
+        "stakeholder_engagement"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "principal--policy--m-avalerehealth-14440195": {
+      "summary": "Serves as a subject-matter expert on Medicare Part B, physician-administered drug policy, and related drug pricing issues, developing strategic recommendations and leading complex engagements for pharmaceutical, biotech, and healthcare clients.",
+      "key_skills": [
+        "policy",
+        "medicare",
+        "physician-administered-drugs",
+        "340b-program",
+        "oncology",
+        "regulatory-analysis",
+        "quantitative-modeling",
+        "legislative-strategy"
+      ],
+      "core_skills": [
+        "policy-analysis",
+        "regulatory-compliance",
+        "stakeholder-engagement",
+        "strategic-planning"
+      ],
+      "seniority_signal": "principal",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "online-travel-adviso-destinationknot-14440195": {
+      "summary": "Plans and books travel arrangements including flights, hotels, cru: cruises, and holiday packages while delivering excellent customer service through prompt responses and destination recommendations.",
+      "key_skills": [
+        "travel",
+        "customer_service",
+        "research",
+        "booking",
+        "destinations",
+        "budget"
+      ],
+      "core_skills": [
+        "customer_service",
+        "research"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     }
   }
 }
