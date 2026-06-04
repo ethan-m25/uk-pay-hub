@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-03T10:52:42.786440+00:00",
-    "total_jobs": 273,
-    "enriched": 185
+    "built_at": "2026-06-04T10:26:47.141011+00:00",
+    "total_jobs": 276,
+    "enriched": 200
   },
   "jobs": {
     "developer-evangelist-xsolla-85194243": {
@@ -4065,6 +4065,346 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "card-acquiring--busi-monzo-82245969": {
+      "summary": "Provides magician-standard customer support for business banking card acquiring issues including chargebacks, disputes, and terminal issues while collaborating with third-party providers to resolve complex customer problems.",
+      "key_skills": [
+        "customer operations",
+        "card acquiring",
+        "chargebacks",
+        "disputes",
+        "terminal issues",
+        "third-party providers",
+        "merchant relationships",
+        "compliance"
+      ],
+      "core_skills": [
+        "problem solving",
+        "ownership",
+        "communication",
+        "process improvement"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "full-stack-engineer-monzo-82245969": {
+      "summary": "Collaborates with cross-functional teams to build and support banking products for customers",
+      "key_skills": [
+        "full-stack",
+        "engineering",
+        "product",
+        "design",
+        "data",
+        "mobile",
+        "web",
+        "security"
+      ],
+      "core_skills": [
+        "full-stack",
+        "engineering"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "staff-product-design-monzo-82245969": {
+      "summary": "Designs and leads end-to-end product design projects to solve customer problems while maintaining high design quality and innovation standards.",
+      "key_skills": [
+        "design",
+        "ui",
+        "interaction",
+        "research",
+        "product",
+        "strategy",
+        "craft",
+        "quality"
+      ],
+      "core_skills": [
+        "strategic",
+        "leadership",
+        "cross-functional",
+        "mentorship"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "third-party-risk-man-monzo-82245969": {
+      "summary": "Manages third party risk integration for Monzo's acquired Habito mortgage platform, ensuring regulatory compliance and operational security within a tech-focused banking environment.",
+      "key_skills": [
+        "third party risk management",
+        "regulatory compliance",
+        "risk assessment",
+        "information security",
+        "data risk management",
+        "outsourcing regulations",
+        "cyber security",
+        "process optimization"
+      ],
+      "core_skills": [
+        "regulatory compliance",
+        "risk assessment",
+        "information security",
+        "data risk management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "uki-enterprise-asana-82245969": {
+      "summary": "Enterprise Account Executive who navigates complex account landscapes, leverages data to optimize solutions, and identifies new use cases while building strategic partnerships with key decision-makers.",
+      "key_skills": [
+        "enterprise",
+        "sales",
+        "account",
+        "executive",
+        "strategic",
+        "relationship",
+        "management",
+        "negotiation"
+      ],
+      "core_skills": [
+        "sales",
+        "negotiation",
+        "relationship",
+        "management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "uk-on---site-associa-jobandtalent-82245969": {
+      "summary": "The On-Site Associate identifies suitable candidates for industrial clients, conducts interviews and inductions, ensures compliance with health and safety legislation, and manages administrative duties to facilitate payroll and invoicing.",
+      "key_skills": [
+        "relationship-building",
+        "interviews",
+        "reference",
+        "team",
+        "communication",
+        "organisation",
+        "attention-to-detail",
+        "quick-thinking"
+      ],
+      "core_skills": [
+        "communication",
+        "organisation",
+        "time-management",
+        "attention-to-detail"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "associate-director---avalerehealth-82245969": {
+      "summary": "Develops and manages strategic client deliverables while overseeing day-to-day engagement needs to align with client business objectives and drive measurable impact across channels.",
+      "key_skills": [
+        "strategic planning",
+        "omni-channel engagement",
+        "customer experience",
+        "data analytics",
+        "content strategy",
+        "pharmaceutical advertising",
+        "patient engagement",
+        "healthcare marketing"
+      ],
+      "core_skills": [
+        "strategic planning",
+        "data analytics",
+        "content strategy",
+        "pharmaceutical advertising"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "managing-director--e-avalerehealth-82245969": {
+      "summary": "This VP leads evidence and strategy projects for healthcare clients, focusing on patient-centric value, evidence analytics, and healthcare strategy to drive data-driven decisions and improve patient outcomes.",
+      "key_skills": [
+        "evidence",
+        "strategy",
+        "healthcare",
+        "consulting",
+        "data-driven",
+        "patient-centric",
+        "value-based",
+        "health equity"
+      ],
+      "core_skills": [
+        "consulting",
+        "client engagement",
+        "healthcare research"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "principal--policy-avalerehealth-82245969": {
+      "summary": "Serves as a key subject matter expert on Medicare, Medicaid, and drug pricing policy issues impacting pharmaceutical/biotech, health insurance, pharmacy, and PBM industries while generating strategic and tactical recommendations for clients.",
+      "key_skills": [
+        "medicare",
+        "medicaid",
+        "drug_pricing_policy",
+        "policy_analysis",
+        "client_strategy",
+        "project_management",
+        "cross_functional_teams",
+        "stakeholder_engagement"
+      ],
+      "core_skills": [
+        "policy_analysis",
+        "client_strategy",
+        "project_management",
+        "stakeholder_engagement"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "principal--policy--m-avalerehealth-82245969": {
+      "summary": "Serves as a subject-matter expert on Medicare Part B, physician-administered drug policy, and related drug pricing issues, developing strategic recommendations and leading complex engagements for pharmaceutical, biotech, and healthcare clients.",
+      "key_skills": [
+        "policy",
+        "medicare",
+        "physician-administered-drugs",
+        "340b-program",
+        "oncology",
+        "regulatory-analysis",
+        "quantitative-modeling",
+        "legislative-strategy"
+      ],
+      "core_skills": [
+        "policy-analysis",
+        "regulatory-compliance",
+        "stakeholder-engagement",
+        "strategic-planning"
+      ],
+      "seniority_signal": "principal",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "vp--engagement-strat-avalerehealth-82245969": {
+      "summary": "Leads end-to-end engagement strategy for key accounts, translating brand strategy into omnichannel engagement plans and managing cross-functional teams to optimize patient journey experiences.",
+      "key_skills": [
+        "engagement strategy",
+        "digital strategy",
+        "omnichannel strategy",
+        "experience planning",
+        "brand ecosystem",
+        "content matrices",
+        "channel-specific content",
+        "audience insights"
+      ],
+      "core_skills": [
+        "strategy leadership",
+        "cross-functional collaboration",
+        "audience insights",
+        "client impact"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "manager--contract-ma-ashby-82245969": {
+      "summary": "Manages a team of Startup Contract Managers to guide customers through renewals, pricing negotiations, and long-term partnership planning while building scalable processes and systems.",
+      "key_skills": [
+        "contract management",
+        "renewal strategy",
+        "negotiation",
+        "customer retention",
+        "commercial partnership",
+        "forecasting",
+        "operational rigor",
+        "process optimization"
+      ],
+      "core_skills": [
+        "leadership",
+        "strategic thinking",
+        "cross-functional collaboration",
+        "commercial acumen"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "regulatory-complianc-gocardless-68422812": {
+      "summary": "Manages regulatory obligations across licences and regulated entities through project management and coordination with stakeholders.",
+      "key_skills": [
+        "regulatory compliance",
+        "project management",
+        "regulatory reporting",
+        "fca",
+        "psr",
+        "asic",
+        "fma",
+        "hmrc"
+      ],
+      "core_skills": [
+        "project management",
+        "regulatory compliance"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-manager--mana-crypto-68422812": {
+      "summary": "Serves as a key institutional sales professional focused on onboarding and scaling institutional/high-net-worth clients through crypto products like prediction contracts and RWA offerings, while managing relationships and providing market insights.",
+      "key_skills": [
+        "institutional sales",
+        "institutional clients",
+        "crypto products",
+        "prediction contracts",
+        "rwa products",
+        "onboarding",
+        "relationship management",
+        "market insights"
+      ],
+      "core_skills": [
+        "institutional sales",
+        "onboarding",
+        "relationship management",
+        "market insights"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "compensation-complia-xsolla-68422812": {
+      "summary": "Oversees the rollout, administration, and compliance of Xsolla’s Complementary Compensation Plan while ensuring adherence to regulatory requirements and supporting strategic initiatives.",
+      "key_skills": [
+        "compensation compliance",
+        "equity compensation",
+        "crypto tokens",
+        "stock based compensation",
+        "rsu",
+        "espp",
+        "regulatory compliance",
+        "sec laws"
+      ],
+      "core_skills": [
+        "project management",
+        "analytical skills",
+        "communication skills",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     }
   }
 }
