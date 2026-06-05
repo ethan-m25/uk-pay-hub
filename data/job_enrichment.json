@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-04T10:26:47.141011+00:00",
-    "total_jobs": 276,
-    "enriched": 200
+    "built_at": "2026-06-05T10:26:05.842944+00:00",
+    "total_jobs": 292,
+    "enriched": 208
   },
   "jobs": {
     "developer-evangelist-xsolla-85194243": {
@@ -4047,6 +4047,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "principal--policy----avalerehealth-14440195": {
+      "summary": "This role involves applying advanced analytics to healthcare policy questions to influence decision-making at the highest levels of the healthcare ecosystem.",
+      "key_skills": [
+        "policy",
+        "analytics",
+        "data",
+        "modeling",
+        "healthcare",
+        "strategy",
+        "advisory",
+        "client"
+      ],
+      "core_skills": [
+        "policy",
+        "analytics",
+        "data",
+        "modeling"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "hybrid",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "online-travel-adviso-destinationknot-14440195": {
       "summary": "Plans and books travel arrangements including flights, hotels, cru: cruises, and holiday packages while delivering excellent customer service through prompt responses and destination recommendations.",
       "key_skills": [
@@ -4202,143 +4225,6 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "associate-director---avalerehealth-82245969": {
-      "summary": "Develops and manages strategic client deliverables while overseeing day-to-day engagement needs to align with client business objectives and drive measurable impact across channels.",
-      "key_skills": [
-        "strategic planning",
-        "omni-channel engagement",
-        "customer experience",
-        "data analytics",
-        "content strategy",
-        "pharmaceutical advertising",
-        "patient engagement",
-        "healthcare marketing"
-      ],
-      "core_skills": [
-        "strategic planning",
-        "data analytics",
-        "content strategy",
-        "pharmaceutical advertising"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "managing-director--e-avalerehealth-82245969": {
-      "summary": "This VP leads evidence and strategy projects for healthcare clients, focusing on patient-centric value, evidence analytics, and healthcare strategy to drive data-driven decisions and improve patient outcomes.",
-      "key_skills": [
-        "evidence",
-        "strategy",
-        "healthcare",
-        "consulting",
-        "data-driven",
-        "patient-centric",
-        "value-based",
-        "health equity"
-      ],
-      "core_skills": [
-        "consulting",
-        "client engagement",
-        "healthcare research"
-      ],
-      "seniority_signal": "executive",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "principal--policy-avalerehealth-82245969": {
-      "summary": "Serves as a key subject matter expert on Medicare, Medicaid, and drug pricing policy issues impacting pharmaceutical/biotech, health insurance, pharmacy, and PBM industries while generating strategic and tactical recommendations for clients.",
-      "key_skills": [
-        "medicare",
-        "medicaid",
-        "drug_pricing_policy",
-        "policy_analysis",
-        "client_strategy",
-        "project_management",
-        "cross_functional_teams",
-        "stakeholder_engagement"
-      ],
-      "core_skills": [
-        "policy_analysis",
-        "client_strategy",
-        "project_management",
-        "stakeholder_engagement"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "principal--policy--m-avalerehealth-82245969": {
-      "summary": "Serves as a subject-matter expert on Medicare Part B, physician-administered drug policy, and related drug pricing issues, developing strategic recommendations and leading complex engagements for pharmaceutical, biotech, and healthcare clients.",
-      "key_skills": [
-        "policy",
-        "medicare",
-        "physician-administered-drugs",
-        "340b-program",
-        "oncology",
-        "regulatory-analysis",
-        "quantitative-modeling",
-        "legislative-strategy"
-      ],
-      "core_skills": [
-        "policy-analysis",
-        "regulatory-compliance",
-        "stakeholder-engagement",
-        "strategic-planning"
-      ],
-      "seniority_signal": "principal",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "vp--engagement-strat-avalerehealth-82245969": {
-      "summary": "Leads end-to-end engagement strategy for key accounts, translating brand strategy into omnichannel engagement plans and managing cross-functional teams to optimize patient journey experiences.",
-      "key_skills": [
-        "engagement strategy",
-        "digital strategy",
-        "omnichannel strategy",
-        "experience planning",
-        "brand ecosystem",
-        "content matrices",
-        "channel-specific content",
-        "audience insights"
-      ],
-      "core_skills": [
-        "strategy leadership",
-        "cross-functional collaboration",
-        "audience insights",
-        "client impact"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "manager--contract-ma-ashby-82245969": {
-      "summary": "Manages a team of Startup Contract Managers to guide customers through renewals, pricing negotiations, and long-term partnership planning while building scalable processes and systems.",
-      "key_skills": [
-        "contract management",
-        "renewal strategy",
-        "negotiation",
-        "customer retention",
-        "commercial partnership",
-        "forecasting",
-        "operational rigor",
-        "process optimization"
-      ],
-      "core_skills": [
-        "leadership",
-        "strategic thinking",
-        "cross-functional collaboration",
-        "commercial acumen"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "regulatory-complianc-gocardless-68422812": {
       "summary": "Manages regulatory obligations across licences and regulated entities through project management and coordination with stakeholders.",
       "key_skills": [
@@ -4383,7 +4269,305 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
-    "compensation-complia-xsolla-68422812": {
+    "sr--product-designer-pendo-54802460": {
+      "summary": "Owns end-to-end design execution for assigned product areas, partners with product and engineering leaders to turn customer insights into actionable design decisions, and leverages AI tools in daily workflows to validate and ship experiences tied to measurable outcomes.",
+      "key_skills": [
+        "product design",
+        "ai tools",
+        "user flows",
+        "prototyping",
+        "customer co-design",
+        "design system",
+        "engineering handoff",
+        "backlog prioritization"
+      ],
+      "core_skills": [
+        "end-to-end design ownership",
+        "customer co-design",
+        "ai-assisted workflow",
+        "prototyping validation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "associate-director---avalerehealth-54802460": {
+      "summary": "Develops and manages strategic client deliverables while overseeing day-to-day engagement needs to align with client business objectives and drive measurable impact across channels.",
+      "key_skills": [
+        "strategic planning",
+        "omni-channel engagement",
+        "customer experience",
+        "data analytics",
+        "content strategy",
+        "pharmaceutical advertising",
+        "patient engagement",
+        "healthcare marketing"
+      ],
+      "core_skills": [
+        "strategic planning",
+        "data analytics",
+        "content strategy",
+        "pharmaceutical advertising"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "managing-director--e-avalerehealth-54802460": {
+      "summary": "The VP leads client engagements to inform business and evidence strategy for healthcare products, focusing on patient-centric value, evidence analytics, and healthcare strategy while mentoring cross-functional teams.",
+      "key_skills": [
+        "evidence",
+        "strategy",
+        "healthcare",
+        "consulting",
+        "data-driven",
+        "patient-centric",
+        "value-based",
+        "health equity"
+      ],
+      "core_skills": [
+        "consulting",
+        "client engagement",
+        "healthcare research"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "principal--policy-avalerehealth-54802460": {
+      "summary": "Serves as a key subject matter expert on Medicare, Medicaid, and drug pricing policy issues impacting pharmaceutical and biotech industries, generating strategic and tactical recommendations for clients while overseeing complex engagements and cross-functional teams.",
+      "key_skills": [
+        "policy_analysis",
+        "medicare",
+        "medicaid",
+        "drug_pricing",
+        "pharmaceutical",
+        "biotech",
+        "health_insurance",
+        "pharmacy"
+      ],
+      "core_skills": [
+        "policy_analysis",
+        "strategic_planning",
+        "client_management",
+        "project_management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "principal--policy--m-avalerehealth-54802460": {
+      "summary": "Serves as a subject-matter expert on Medicare Part B, physician-administered drug policy, and related drug pricing issues, developing strategic recommendations and leading complex engagements for pharmaceutical, biotech, and healthcare clients.",
+      "key_skills": [
+        "policy",
+        "medicare",
+        "physician-administered-drugs",
+        "340b-program",
+        "oncology",
+        "regulatory-analysis",
+        "quantitative-modeling",
+        "legislative-strategy"
+      ],
+      "core_skills": [
+        "policy-analysis",
+        "regulatory-compliance",
+        "stakeholder-engagement",
+        "strategic-planning"
+      ],
+      "seniority_signal": "principal",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "vp--engagement-strat-avalerehealth-54802460": {
+      "summary": "Leads end-to-end engagement strategy for key accounts, translating brand strategy into omnichannel engagement plans and managing cross-functional teams to optimize patient journey experiences.",
+      "key_skills": [
+        "engagement strategy",
+        "digital strategy",
+        "omnichannel strategy",
+        "experience planning",
+        "brand ecosystem",
+        "content matrices",
+        "channel-specific content",
+        "audience insights"
+      ],
+      "core_skills": [
+        "strategy leadership",
+        "cross-functional collaboration",
+        "audience insights",
+        "client impact"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "account-manager--ame-panopto-54802460": {
+      "summary": "Account Manager responsible for managing software renewals, upselling and cross-selling to enterprise, higher education, and K-12 clients while ensuring customer satisfaction and retention.",
+      "key_skills": [
+        "account management",
+        "renewals",
+        "upselling",
+        "cross-selling",
+        "crm",
+        "sales",
+        "solutions",
+        "market research"
+      ],
+      "core_skills": [
+        "sales",
+        "relationship management",
+        "crm proficiency",
+        "market analysis"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "ai-engineer-panopto-54802460": {
+      "summary": "AI Engineer designs and builds AI-powered learning experiences, turning ambitious AI concepts into secure, scalable production systems while mentoring classical software engineers into AI bridge engineers.",
+      "key_skills": [
+        "ai engineering",
+        "machine learning",
+        "prompt engineering",
+        "llm integration",
+        "data pipelines",
+        "model training",
+        "system architecture",
+        "scalable systems"
+      ],
+      "core_skills": [
+        "technical leadership",
+        "end-to-end ai solutions",
+        "prompt design",
+        "safety guardrails"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "content-marketing-wr-panopto-54802460": {
+      "summary": "Content Marketing Writer owns the Panopto story across digital ecosystems, translating complex product insights into benefit-driven narratives to drive engagement, conversion, and pipeline while focusing on Higher Education.",
+      "key_skills": [
+        "content marketing",
+        "storytelling",
+        "product marketing",
+        "demand generation",
+        "brand",
+        "customer storytelling",
+        "case studies",
+        "search optimization"
+      ],
+      "core_skills": [
+        "storytelling",
+        "customer storytelling",
+        "case studies",
+        "search optimization"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "devops-engineer--usa-panopto-54802460": {
+      "summary": "Mid-Level DevOps Engineer who modernizes legacy build systems into automated pipelines, improving engineering efficiency and quality.",
+      "key_skills": [
+        "devops",
+        "ci/cd",
+        "kubernetes",
+        "docker",
+        "terraform",
+        "cloud",
+        "automation",
+        "python"
+      ],
+      "core_skills": [
+        "ci/cd",
+        "kubernetes",
+        "docker",
+        "terraform"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "product-manager-ii-panopto-54802460": {
+      "summary": "Product Manager II leads the creation and development of innovative business concepts and features while analyzing customer data and market trends to inform product strategy.",
+      "key_skills": [
+        "product management",
+        "agile",
+        "customer experience",
+        "feature development",
+        "data analysis",
+        "market research",
+        "competitive analysis",
+        "roi modeling"
+      ],
+      "core_skills": [
+        "product strategy",
+        "cross-functional collaboration",
+        "project management",
+        "stakeholder communication"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "security-engineer-panopto-54802460": {
+      "summary": "Security Engineer owns the security posture of a platform used by millions, partnering with developers to build secure systems from the ground up while ensuring compliance with ISO 27001 and TX-RAMP.",
+      "key_skills": [
+        "aws",
+        "threat modeling",
+        "penetration testing",
+        "sast",
+        "dast",
+        "vulnerability management",
+        "ci/cd",
+        "automated scanning"
+      ],
+      "core_skills": [
+        "cloud security",
+        "code-level proficiency",
+        "pragmatic compliance",
+        "incident response"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "support-analyst-i-panopto-54802460": {
+      "summary": "Resolves customer inquiries via ticketing, phone, and live chat while collaborating with engineering teams to solve technical issues and maintain product documentation.",
+      "key_skills": [
+        "customer support",
+        "technical troubleshooting",
+        "ticket management",
+        "knowledge base",
+        "product documentation",
+        "clarity over complexity",
+        "collaboration",
+        "cross-functional communication"
+      ],
+      "core_skills": [
+        "technical problem solving",
+        "analytical mindset",
+        "operational excellence",
+        "customer-centric experience"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "compensation-complia-xsolla-54802460": {
       "summary": "Oversees the rollout, administration, and compliance of Xsolla’s Complementary Compensation Plan while ensuring adherence to regulatory requirements and supporting strategic initiatives.",
       "key_skills": [
         "compensation compliance",
@@ -4393,12 +4577,12 @@
         "rsu",
         "espp",
         "regulatory compliance",
-        "sec laws"
+        "sec compliance"
       ],
       "core_skills": [
         "project management",
+        "regulatory compliance",
         "analytical skills",
-        "communication skills",
         "cross-functional collaboration"
       ],
       "seniority_signal": "senior",
